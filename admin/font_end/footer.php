@@ -1,0 +1,1 @@
+<strong>Copyright &copy; 2017 <a href="#">Hoàng Yến</a>.</strong> All rights reserved.
